@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "436963055348",
+    "firebase_url": "https://projetolpi-586f0.firebaseio.com",
+    "project_id": "projetolpi-586f0",
+    "storage_bucket": "projetolpi-586f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436963055348:android:4dff00c499022dbd",
+        "android_client_info": {
+          "package_name": "com.example.testelpi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIDN8xxt75RvZmw7DHud5WMBmBWRWSTGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "436963055348-2qhc1ubec60qajstc8g8si67fncf4sp5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
